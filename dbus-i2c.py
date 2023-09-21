@@ -57,7 +57,7 @@ def update():
 #
     update_rpi()
     update_W1()
-#    update_i2c()
+    update_i2c()
 #    update_adc()
     return True
 
